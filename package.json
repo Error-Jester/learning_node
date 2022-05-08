@@ -1,0 +1,22 @@
+{
+  "name": "node_learning",
+  "version": "1.0.0",
+  "description": "Learning everything about node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Error-Jester/learning_node.git"
+  },
+  "keywords": [
+    "learning_node"
+  ],
+  "author": "Duah Kwadwo Adjei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Error-Jester/learning_node/issues"
+  },
+  "homepage": "https://github.com/Error-Jester/learning_node#readme"
+}
